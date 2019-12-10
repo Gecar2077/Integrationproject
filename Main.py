@@ -24,5 +24,5 @@ while not result:
     elif guess > number:
         print("A little lower")
 
-print("Congrats, you guessed correctly. The number was {}".format(number))
+print("Congrats, you got it right. The number was {}".format(number))
 print("it took you {} guesses".format(guesses))
